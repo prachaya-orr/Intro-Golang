@@ -12,7 +12,7 @@ func cal(op func(int, int) int) {
 }
 
 func main() {
-	var name = "Nong"
+	var name = "Ohm"
 	fmt.Printf("value: %v\n", name)
 	fmt.Printf("type: %T\n", name)
 	show(name)
