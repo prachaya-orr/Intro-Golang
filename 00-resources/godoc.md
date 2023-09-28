@@ -15,6 +15,6 @@ go get -v  golang.org/x/tools/cmd/godoc
 
 #start web document
 ```
-go doc -http :6060 
+godoc -http :6060 
 ```
 
